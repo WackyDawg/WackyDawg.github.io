@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://wackydawg.github.io/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/about/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/categories/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/year-archive/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/node.js/Node-Js-FS-Module_Overview/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/node.js/How-to-Set-Up-Node.js-and-Run-a-Node.js-Server-A-Step-by-Step-Guide/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/web-development/react/How-To-Speed-Up-Your-React-App/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/backend-development/graphql/GraphQL-with-Node-Js-and-Apollo-Server/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/node.js/backend-development/Node-Js-Performance-Optimization-Techniques/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/page2/</loc>
+  <lastmod>2025-04-19T12:34:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/page3/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/backend-development/Deploy-Node-Js-Apps/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/node.js/backend-development/Node-Js-Authentication-Guide/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/devops/backend-development/How-To-Setup-CI-CD-Pipelines-with-GitHub-Actions/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/backend-development/Real-Time-Apps-with-Node.js/</loc>
+  <lastmod>2025-04-19T12:34:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/node.js/backend-development/Building-Restful-API-Guide/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/devops/backend/Containerizing-Node-js-Applications-with-Docker/</loc>
+  <lastmod>2025-04-19T12:34:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/javascript/How-To-Create-a-Chrome-Extension-in-30-Minutes/</loc>
+  <lastmod>2025-04-19T12:34:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wackydawg.github.io/tags/</loc>
+  <lastmod>2025-04-19T12:34:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
