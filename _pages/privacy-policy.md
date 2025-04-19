@@ -4,8 +4,6 @@ permalink: /privacy-policy/
 toc: true
 ---
 
-# Privacy Policy
-
 **Effective Date:** April 19, 2025
 
 Welcome to **Wackydawg Blog** ("we," "us," or "our"). Your privacy is important to us. This Privacy Policy outlines how we collect, use, protect, and disclose your information when you visit [https://wackydawg.github.io](https://wackydawg.github.io).
