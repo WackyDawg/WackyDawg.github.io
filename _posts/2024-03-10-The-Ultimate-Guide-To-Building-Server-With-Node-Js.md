@@ -354,7 +354,7 @@ http.get('http://jsonplaceholder.typicode.com/posts/1', (res) => {
 
 Example timeout:
 
-![server-timeout](/assets/images/server-timeout.png)
+![](/assets/images/server-timeout.png)
 
 ---
 
