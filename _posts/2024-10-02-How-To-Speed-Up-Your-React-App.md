@@ -1,5 +1,5 @@
 --- 
-title: "Speed Up Your React App: Lazy Loading, Memoization, and Beyond"
+title: "How To Speed Up Your React App: Lazy Loading, Memoization, and Beyond"
 
 excerpt: "In today’s fast-paced digital world, users expect web applications to load instantly and run smoothly. A sluggish React app can lead to frustrated users, higher bounce rate......."
 
