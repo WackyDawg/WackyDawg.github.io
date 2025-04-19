@@ -3,9 +3,6 @@ title: "About"
 permalink: /about/
 toc: true
 ---
-
-Sure! Here's an **About the Blog** section following the same vibe you shared, but customized for **your WackyDawg blog**:
-
 ---
 
 ## 🚀 Welcome to WackyDawg's Creative Lab
@@ -19,7 +16,7 @@ Join me as I turn ideas into reality, one crazy project at a time. 🎯👨‍�
 ---
 
 ---
-- [Banner](/assets/images/banner.png)
+![Banner](/assets/images/banner.png)
 
 # About Me — WackyDawg (Julian Chibuike Nwadinobi)
 
