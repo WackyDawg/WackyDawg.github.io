@@ -1,8 +1,7 @@
 ---
 title: "Privacy Policy"
 permalink: /privacy-policy/
-layout: tags
-author_profile: true
+toc: true
 ---
 
 # Privacy Policy
