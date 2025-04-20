@@ -259,10 +259,4 @@ You’ve now built a Node.js authentication system that includes:
 
 ---
 
-# 📊 Summary Infographic: Node.js Authentication Flow
-
-Here's the **summary infographic** you asked for, just like the first one:
-
-![Node.js Authentication Infographic](attachment://file_00000000a9b861f78002f62c21d851f6)
-
 ---

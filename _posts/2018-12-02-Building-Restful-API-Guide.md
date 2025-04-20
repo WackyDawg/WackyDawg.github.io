@@ -371,9 +371,6 @@ Stay tuned!
  
 
 ---
-
-Would you also like me to include a **summary infographic** at the end of the post to make it that extra bit special? ????
-(takes only a minute to whip up if you'd like!)
 ---------------------------------------------
 
 If you've ever wondered how to modify a PowerShell array after you've created it, you're not alone! This is an oft-asked question — and today I'm breaking it down into super simple steps.
