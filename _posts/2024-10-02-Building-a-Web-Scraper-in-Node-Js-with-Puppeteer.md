@@ -63,7 +63,7 @@ _(Heads up: Puppeteer downloads a Chromium browser that works with it. If you wa
 
 Now let's write a simple script to grab some data from a webpage.
 
-### Example: Pulling Product Prices Data From [Products to Scrape](https://jumia.com.ng)
+### Example: Pulling Product Prices Data From [Products to Scrape](https://www.aliexpress.com)
 
 > This website is great for practicing web scraping on real-world data. It's a real e-commerce platform, so be mindful and scrape responsibly.
 
