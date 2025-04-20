@@ -69,7 +69,8 @@ Now let's write a simple script to grab some data from a webpage.
 
 Make a new file and name it `scrape.js`:
 
-![scrape.js]([scrape.js](/assets/images/scrapper.png)
+![scrape.js](/assets/images/scrapper.png)
+
 
 Now, run the script:
 
@@ -247,7 +248,7 @@ Web scraping exists in a legal and ethical gray area. Always:
 
 Here's a full example project that scrapes multiple pages:
 
-![complete project code]([complete project code](/assets/images/multi-pages-scrapper.png)
+![complete project code](/assets/images/multi-pages-scrapper.png)
 
 > Here is the complete source code: [https://github.com/WackyDawg/puppeteer-scrapper-example](https://github.com/WackyDawg/puppeteer-scrapper-example)
 
